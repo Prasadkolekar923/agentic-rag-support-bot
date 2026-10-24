@@ -46,8 +46,8 @@ The recorded demonstration highlights the 5 required scenarios:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/Prasadkolekar923/ai-agent-intern-test.git
-cd ai-agent-intern-test
+git clone https://github.com/Prasadkolekar923/agentic-rag-support-bot.git
+cd agentic-rag-support-bot
 
 # 2. Create and activate a virtual environment
 python -m venv venv
